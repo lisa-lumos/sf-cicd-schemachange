@@ -1,6 +1,6 @@
 # sf-cicd-schemachange
 
-Followed steps on tutorial [DevOps: Database Change Management with schemachange and GitHub](https://quickstarts.snowflake.com/guide/devops_dcm_schemachange_github/index.html?index=..%2F..index#2).
+Followed steps on tutorial [DevOps: Database Change Management with schemachange and GitHub](https://quickstarts.snowflake.com/guide/devops_dcm_schemachange_github/index.html?index=..%2F..index#0).
 
 Automated release management for Snowflake by leveraging the GitHub Actions service from GitHub. 
 
