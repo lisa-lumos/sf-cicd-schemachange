@@ -1,5 +1,5 @@
-create schema lisa_test;
+create schema if not exists lisa_test;
 
 
-create schema lisa_test2;
+create schema if not exists lisa_test2;
 
